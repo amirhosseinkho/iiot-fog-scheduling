@@ -133,3 +133,6 @@ config.ini
 temp/
 tmp/
 .tmp/
+
+# Per-run comparison outputs
+comparison_results_*.txt

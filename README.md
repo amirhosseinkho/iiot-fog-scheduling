@@ -33,8 +33,8 @@ The Enhanced EPO-CEIS algorithm demonstrates superior performance:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/IIoT-Scheduler.git
-cd IIoT-Scheduler
+git clone https://github.com/amirhosseinkho/IIOT.git
+cd IIOT
 
 # Install Python dependencies
 pip install -r requirements.txt
@@ -55,7 +55,7 @@ python analyze_results.py
 ## Project Structure
 
 ```
-IIoT-Scheduler/
+IIOT/
 ├── src/
 │   ├── algorithms/          # Scheduling algorithms
 │   ├── core/               # Core data structures
@@ -105,6 +105,10 @@ If you use this project in your research, please cite:
   title={IIoT Task Scheduling System},
   author={Amirhossein Khoshbakht},
   year={2024},
-  url={https://github.com/yourusername/IIoT-Scheduler}
+  url={https://github.com/amirhosseinkho/IIOT}
 }
 ```
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
