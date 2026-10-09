@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-The IIoT Task Scheduling System is a comprehensive framework for optimizing task scheduling in Industrial Internet of Things (IIoT) environments. The system implements multiple scheduling algorithms including Enhanced EPO-CEIS (Enhanced Evolutionary Programming with Constraint-based Evolutionary Iterative Search), Genetic Algorithm, Particle Swarm Optimization, Min-Min heuristic, and First-Fit heuristic.
+The IIoT Task Scheduling System is a comprehensive framework for optimizing task scheduling in Industrial Internet of Things (IIoT) environments. The system implements multiple scheduling algorithms including Enhanced EPO-CEIS (an evolutionary scheduler built on Puma Optimizer operators), Genetic Algorithm, Particle Swarm Optimization, Min-Min heuristic, and First-Fit heuristic.
 
 The primary objective is to minimize total cost, makespan, and energy consumption while maximizing deadline hit rates in fog-cloud computing environments.
 
@@ -106,7 +106,7 @@ public class Workflow {
 
 ## Algorithms
 
-### 1. Enhanced EPO-CEIS (Enhanced Evolutionary Programming with Constraint-based Evolutionary Iterative Search)
+### 1. Enhanced EPO-CEIS (an evolutionary scheduler built on Puma Optimizer operators)
 
 The Enhanced EPO-CEIS algorithm is the primary algorithm developed in this project. It combines evolutionary programming with constraint-based search to optimize task scheduling.
 
