@@ -33,8 +33,8 @@ The Enhanced EPO-CEIS algorithm demonstrates superior performance:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/amirhosseinkho/IIOT.git
-cd IIOT
+git clone https://github.com/amirhosseinkho/iiot-fog-scheduling.git
+cd iiot-fog-scheduling
 
 # Install Python dependencies
 pip install -r requirements.txt
@@ -55,7 +55,7 @@ python analyze_results.py
 ## Project Structure
 
 ```
-IIOT/
+iiot-fog-scheduling/
 ├── src/
 │   ├── algorithms/          # Scheduling algorithms
 │   ├── core/               # Core data structures
@@ -105,7 +105,7 @@ If you use this project in your research, please cite:
   title={IIoT Task Scheduling System},
   author={Amirhossein Khoshbakht},
   year={2024},
-  url={https://github.com/amirhosseinkho/IIOT}
+  url={https://github.com/amirhosseinkho/iiot-fog-scheduling}
 }
 ```
 

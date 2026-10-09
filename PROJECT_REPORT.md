@@ -34,7 +34,7 @@ The primary objective is to minimize total cost, makespan, and energy consumptio
 The system follows a modular architecture with clear separation of concerns:
 
 ```
-IIoT-Scheduler/
+iiot-fog-scheduling/
 ├── src/
 │   ├── algorithms/          # Scheduling algorithms
 │   ├── core/               # Core data structures

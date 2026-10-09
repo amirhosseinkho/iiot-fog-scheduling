@@ -159,7 +159,7 @@ java -cp "libs/*;src" algorithms.EnhancedEPOCEIS
 ## 📁 Project Structure
 
 ```
-IIoT-Scheduler/
+iiot-fog-scheduling/
 ├── src/
 │   ├── algorithms/          # Core scheduling algorithms
 │   │   ├── EnhancedEPOCEIS.java     # Main EPO-CEIS implementation
